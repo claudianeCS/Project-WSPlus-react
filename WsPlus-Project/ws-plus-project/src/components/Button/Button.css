@@ -1,0 +1,25 @@
+.btn1{
+    background-color: #FF9F00;
+    color:  #000;
+    padding: 0.4em 1.8em;
+    border-radius: 8px;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.4em;
+    width: 15%;
+    text-align: center;
+    margin-left: 70%;
+    margin-top: 3%;
+    background-image: -webkit-linear-gradient(45deg, #E2821A 50%, transparent 50%);
+    background-image: linear-gradient(45deg, #E2821A 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background 300ms ease-in-out;
+    transition: background 300ms ease-in-out;
+
+}
+.btn1:hover{
+    background-position: 0;
+    box-shadow: 2px 0px 8px #FF9F00;
+    color: white;
+}
