@@ -1,6 +1,6 @@
-# WSPlus - project:
+# Getting Started with Create React App
 
-<h2>This project was created during college, for curse of ADS(Analysis and Development of System) development by Claudiane Costa in 2022.</h2>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
